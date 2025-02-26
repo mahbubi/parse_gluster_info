@@ -1,0 +1,212 @@
+Status of volume: cluster1
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.drc:/mnt/BRICK0
+TCP Port             : 99992
+RDMA Port            : 0
+Online               : Y
+Pid                  : 32203
+File System          : xfs
+Device               : /dev/sdb
+Mount Options        : rw,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 901.6GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 104839272
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.dc:/mnt/BRICK0
+TCP Port             : 99992
+RDMA Port            : 0
+Online               : Y
+Pid                  : 14278
+File System          : xfs
+Device               : /dev/vdb
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 904.3GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 105158052
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.arb:/mnt/BRICK0
+TCP Port             : 99993
+RDMA Port            : 0
+Online               : Y
+Pid                  : 21300
+File System          : xfs
+Device               : /dev/mapper/centos_lms--app01-root
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 256
+Disk Space Free      : 26.2GB
+Total Disk Space     : 99.5GB
+Inode Count          : 104341504
+Free Inodes          : 84613161
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.drc:/mnt/BRICK1
+TCP Port             : 99994
+RDMA Port            : 0
+Online               : Y
+Pid                  : 13725
+File System          : xfs
+Device               : /dev/sdc
+Mount Options        : rw,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 900.5GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 104694074
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.dc:/mnt/BRICK1
+TCP Port             : 99993
+RDMA Port            : 0
+Online               : Y
+Pid                  : 14302
+File System          : xfs
+Device               : /dev/vdc
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 903.0GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 105097517
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.arb:/mnt/BRICK1
+TCP Port             : 99994
+RDMA Port            : 0
+Online               : Y
+Pid                  : 21324
+File System          : xfs
+Device               : /dev/mapper/centos_lms--app01-root
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 256
+Disk Space Free      : 26.2GB
+Total Disk Space     : 99.5GB
+Inode Count          : 104341504
+Free Inodes          : 84613161
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.drc:/mnt/BRICK2
+TCP Port             : 99995
+RDMA Port            : 0
+Online               : Y
+Pid                  : 18997
+File System          : xfs
+Device               : /dev/sdd
+Mount Options        : rw,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 902.7GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 104777232
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.dc:/mnt/BRICK2
+TCP Port             : 99994
+RDMA Port            : 0
+Online               : Y
+Pid                  : 14326
+File System          : xfs
+Device               : /dev/vdd
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 904.7GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 105133860
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.arb:/mnt/BRICK2
+TCP Port             : 99995
+RDMA Port            : 0
+Online               : Y
+Pid                  : 21348
+File System          : xfs
+Device               : /dev/mapper/centos_lms--app01-root
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 256
+Disk Space Free      : 26.2GB
+Total Disk Space     : 99.5GB
+Inode Count          : 104341504
+Free Inodes          : 84613161
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.drc:/mnt/BRICK3
+TCP Port             : 99996
+RDMA Port            : 0
+Online               : Y
+Pid                  : 21193
+File System          : xfs
+Device               : /dev/sde
+Mount Options        : rw,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 901.6GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 104731899
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.dc:/mnt/BRICK3
+TCP Port             : 99995
+RDMA Port            : 0
+Online               : Y
+Pid                  : 26241
+File System          : xfs
+Device               : /dev/vde
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 904.4GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 105098177
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.arb:/mnt/BRICK3
+TCP Port             : 99996
+RDMA Port            : 0
+Online               : Y
+Pid                  : 21372
+File System          : xfs
+Device               : /dev/mapper/centos_lms--app01-root
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 256
+Disk Space Free      : 26.2GB
+Total Disk Space     : 99.5GB
+Inode Count          : 104341504
+Free Inodes          : 84613161
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.drc:/mnt/BRICK4
+TCP Port             : 99997
+RDMA Port            : 0
+Online               : Y
+Pid                  : 19021
+File System          : xfs
+Device               : /dev/sdf
+Mount Options        : rw,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 900.1GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 104742292
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.dc:/mnt/BRICK4
+TCP Port             : 99996
+RDMA Port            : 0
+Online               : Y
+Pid                  : 14374
+File System          : xfs
+Device               : /dev/vdf
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 512
+Disk Space Free      : 902.8GB
+Total Disk Space     : 1023.5GB
+Inode Count          : 107374144
+Free Inodes          : 105128966
+------------------------------------------------------------------------------
+Brick                : Brick gluster-cluster1.arb:/mnt/BRICK4
+TCP Port             : 99997
+RDMA Port            : 0
+Online               : Y
+Pid                  : 21396
+File System          : xfs
+Device               : /dev/mapper/centos_lms--app01-root
+Mount Options        : rw,seclabel,relatime,attr2,inode64,noquota
+Inode Size           : 256
+Disk Space Free      : 26.2GB
+Total Disk Space     : 99.5GB
+Inode Count          : 104341504
+Free Inodes          : 84613161
+------------------------------------------------------------------------------
