@@ -2,7 +2,10 @@
 # GlusterFS Brick Disk Space Checker
 
 ## 📌 Deskripsi
-Skrip ini digunakan untuk mengambil informasi **Brick, Disk Space Free, dan Total Disk Space** dari output GlusterFS. Skrip akan membaca data dari file teks (`text.txt`), kemudian memprosesnya, menghapus kata>
+Skrip ini digunakan untuk mengambil informasi **Brick, Disk Space Free, dan Total Disk Space** dari output GlusterFS. Skrip akan membaca data dari file teks (`text.txt`), yang diambil dari command :
+```bash
+gluster volume info <nama-volume> detail
+```
 ## 📜 Fitur
 ✅ Mengambil data **Brick Path, Free Space, dan Total Space**
 ✅ Mengurutkan hasil berdasarkan nama Brick (secara alami)
@@ -12,8 +15,8 @@ Skrip ini digunakan untuk mengambil informasi **Brick, Disk Space Free, dan Tota
 
 ### 1️⃣ **Clone Repository**
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/mahbubi/parse_gluster_info.git
+cd parse_gluster_info
 ```
 ### 2️⃣ Buat File text.txt dengan Data GlusterFS
 Pastikan memiliki file text.txt dengan format seperti berikut:
